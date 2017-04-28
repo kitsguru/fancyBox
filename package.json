@@ -26,6 +26,6 @@
     "download": "http://fancyapps.com/fancybox/#license",
     "bugs": "https://github.com/fancyapps/fancyBox/issues",
     "dependencies": {
-        "jquery": ">=1.7"
+        "jquery": "^1.12"
     }
 }
